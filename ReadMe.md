@@ -1,5 +1,5 @@
 # Classic Hangman (v1.0.0)
-### Final Project – Marie Sterzer | 08.08.2024
+### Final Project – Marie S. | 08.08.2024
 
 **🌱 About this project**
 This is my very first project in Python after learning the fundamentals of the language. It was an exciting journey into the world of GUI development using Tkinter. While building this simple, classic Hangman game, I learned a lot about creating interactive applications and working with graphical user interfaces.
