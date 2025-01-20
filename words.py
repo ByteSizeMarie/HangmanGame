@@ -1,0 +1,19 @@
+word_list = [
+         "string", 
+         "programmieren", 
+         "python", 
+         "algorithmus", 
+         "boolean", 
+         "schleife", 
+         "modul", 
+         "dictionary", 
+         "integer", 
+         "tuple",
+         "datentypen",
+         "syntax",
+         "funktion",
+         "schlüsselwörter",
+         "datenbank",
+         "unix",
+         "pseudocode"
+         ]
